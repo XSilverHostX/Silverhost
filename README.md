@@ -1,6 +1,6 @@
 # # 👩🏻‍💻 Silverhost
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 <p align="left">
     
